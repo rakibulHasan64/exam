@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Dr. Cameron Williamson",
-    "image": "https://i.ibb.co/1GsqPbY/istockphoto-1136284329-612x612.jpg",
+    "image": "https://i.ibb.co.com/yFtBxZj7/istockphoto-1203266933-612x612.jpg",
     "education": "MBBS, MD - General Medicine, DNB",
     "speciality": "General Medicine",
     "designation": "Senior Consultant",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Dr. Sophia Patel",
-    "image": "https://i.ibb.co/hRZmK10/istockphoto-1185737082-612x612.jpg",
+    "image": "https://i.ibb.co.com/pFXSfgg/nurse-2019420-640.jpg",
     "education": "MBBS, MS - Orthopedics",
     "speciality": "Orthopedics",
     "designation": "Consultant Orthopedist",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "Dr. Michael Thompson",
-    "image": "https://i.ibb.co/d4QZMmH/istockphoto-1203266933-612x612.jpg",
+    "image": "https://i.ibb.co.com/LXBLVMmk/istockphoto-1136284329-612x612.jpg",
     "education": "MBBS, MD - Cardiology",
     "speciality": "Cardiology",
     "designation": "Cardiologist",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "name": "Dr. Emily Johnson",
-    "image": "https://i.ibb.co/nMKCrhT/istockphoto-1400053534-612x612.jpg",
+    "image": "https://i.ibb.co.com/HDtFhzVz/nurse-2019420-640-1.jpg",
     "education": "MBBS, MS - Neurology",
     "speciality": "Neurology",
     "designation": "Neurologist",
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "name": "Dr. David Brown",
-    "image": "https://i.ibb.co/p6nVTLv/istockphoto-2158610739-612x612.webp",
+    "image": "https://i.ibb.co.com/W4GvtdJ7/woman-2141808-1280.jpg",
     "education": "MBBS, MD - Dermatology",
     "speciality": "Dermatology",
     "designation": "Dermatologist",
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "name": "Dr. Olivia Harris",
-    "image": "https://i.ibb.co/gZMskfw/model-5688168-640.jpg",
+    "image": "https://i.ibb.co.com/gZMskfwX/model-5688168-640.jpg",
     "education": "MBBS, MS - Pediatrics",
     "speciality": "Pediatrics",
     "designation": "Pediatrician",
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "name": "Dr. James Wilson",
-    "image": "https://i.ibb.co/W4GvtdJ/woman-2141808-1280.jpg",
+    "image": "https://i.ibb.co.com/p6nVTLvm/istockphoto-2158610739-612x612.webp",
     "education": "MBBS, MS - Gynecology",
     "speciality": "Gynecology",
     "designation": "Gynecologist",
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "name": "Dr. Isabella Clark",
-    "image": "https://i.ibb.co/HDtFhzV/nurse-2019420-640-1.jpg",
+    "image": "https://i.ibb.co.com/nMKCrhT8/istockphoto-1400053534-612x612.jpg",
     "education": "MBBS, MD - Gastroenterology",
     "speciality": "Gastroenterology",
     "designation": "Gastroenterologist",
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "name": "Dr. Benjamin Harris",
-    "image": "https://i.ibb.co/HDtFhzV/nurse-2019420-640-1.jpg",
+    "image": "https://i.ibb.co.com/d4QZMmHG/istockphoto-1203266933-612x612.jpg",
     "education": "MBBS, MS - Urology",
     "speciality": "Urology",
     "designation": "Urologist",
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "name": "Dr. Victoria Adams",
-    "image": "https://i.ibb.co/yFtBxZj/istockphoto-1203266933-612x612.jpg",
+    "image": "https://i.ibb.co.com/hRZmK10r/istockphoto-1185737082-612x612.jpg",
     "education": "MBBS, MD - Oncology",
     "speciality": "Oncology",
     "designation": "Oncologist",
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "name": "Dr. William Clark",
-    "image": "https://i.ibb.co/pFXSfgg/nurse-2019420-640.jpg",
+    "image": "https://i.ibb.co.com/1GsqPbYb/istockphoto-1136284329-612x612.jpg",
     "education": "MBBS, MS - Orthopedics",
     "speciality": "Orthopedics",
     "designation": "Orthopedic Surgeon",
@@ -145,7 +145,7 @@
   {
     "id": 12,
     "name": "Dr. Mia Taylor",
-    "image": "https://i.ibb.co/LXBLVMm/istockphoto-1136284329-612x612.jpg",
+    "image": "https://i.ibb.co.com/nMKCrhT8/istockphoto-1400053534-612x612.jpg",
     "education": "MBBS, MD - Ophthalmology",
     "speciality": "Ophthalmology",
     "designation": "Ophthalmologist",
